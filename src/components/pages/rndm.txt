@@ -1,0 +1,8 @@
+<Box bgcolor="aliceblue" width={500} height={400} boxShadow={1} p={10} color={blue}>
+    <Typography p={6} variant="h1" component="h2" align="center">Contact Page!</Typography>
+    </Box>
+
+    <Typography variant="h1" component="h2" align="center">Contact Page!</Typography>
+
+    For routing
+  <Button color="inherit" href="https://www.google.com">Home</Button>
